@@ -1,0 +1,25 @@
+# Qt build files
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.pro.user
+*.qmake.stash
+moc_*
+ui_*
+qrc_*
+Makefile
+.qmake.conf
+
+# Debug/Release folders
+debug/
+release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
