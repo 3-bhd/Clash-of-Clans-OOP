@@ -42,6 +42,21 @@ Built as part of a Data Structures & OOP course at The American University in Ca
 
 ---
 
+## Screenshots
+<img width="468" height="378" alt="Screenshot 2026-04-10 033600" src="https://github.com/user-attachments/assets/affea428-57d5-48ab-9c25-dfce0c71fd57" />
+<img width="564" height="372" alt="Screenshot 2026-04-10 033544" src="https://github.com/user-attachments/assets/280ae12e-c2ec-4efa-98da-206b57ff5a20" />
+
+---
+
+##UML
+
+<img width="1498" height="914" alt="Screenshot 2026-04-10 035055" src="https://github.com/user-attachments/assets/63c7c5a4-288a-413c-b651-4355e91f669b" />
+
+
+Find it attached in the repo
+
+---
+
 ## Running the Game
 
 1. Open the project in Qt Creator
