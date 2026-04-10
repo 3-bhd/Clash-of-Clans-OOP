@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>c1.png</file>
+        <file>castle.png</file>
+        <file>fenceUnit.png</file>
+        <file>grass.jpg</file>
+        <file>TrobsW-standing.png</file>
+        <file>bullet.png</file>
+        <file>black.jpg</file>
+        <file>TrobsW-V4-R.png</file>
+        <file>TrobsW-V4.png</file>
+        <file>TrobsW-V1-R.png</file>
+        <file>TrobsW-V2.png</file>
+        <file>TrobsW-V2-R.png</file>
+        <file>TrobsW-V3.png</file>
+        <file>TrobsW-V3-R.png</file>
+        <file>TrobsW-D2.png</file>
+        <file>TrobsW-standing-R.png</file>
+        <file>TrobsW-V1.png</file>
+        <file>TrobsW-D1.png</file>
+        <file>c8.png</file>
+        <file>c9.png</file>
+        <file>c10.png</file>
+        <file>c11.png</file>
+        <file>c12.png</file>
+        <file>c2.png</file>
+        <file>c3.png</file>
+        <file>c4.png</file>
+        <file>c5.png</file>
+        <file>c6.png</file>
+        <file>c7.png</file>
+        <file>NewfenceUnit.png</file>
+        <file>troope-a-1.png</file>
+        <file>troope-a-2.png</file>
+        <file>troope-a-1-r.png</file>
+        <file>troope-a-2-r.png</file>
+        <file>troope-d1.png</file>
+        <file>troope-d1-r.png</file>
+        <file>troope-d2.png</file>
+        <file>troope-d2-r.png</file>
+        <file>cursorr.png</file>
+        <file>cursor.png</file>
+    </qresource>
+    <qresource prefix="/new/text">
+        <file>level1Struct.txt</file>
+    </qresource>
+    <qresource prefix="/new/audio">
+        <file>AH.mp3</file>
+        <file>Background.mp3</file>
+        <file>Cracking.mp3</file>
+        <file>LastWin.mp3</file>
+        <file>shoot.mp3</file>
+        <file>Win.mp3</file>
+        <file>Loser.mp3</file>
+    </qresource>
+</RCC>
