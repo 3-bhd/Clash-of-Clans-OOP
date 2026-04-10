@@ -48,7 +48,7 @@ Built as part of a Data Structures & OOP course at The American University in Ca
 
 ---
 
-##UML
+## UML
 
 <img width="1498" height="914" alt="Screenshot 2026-04-10 035055" src="https://github.com/user-attachments/assets/63c7c5a4-288a-413c-b651-4355e91f669b" />
 
